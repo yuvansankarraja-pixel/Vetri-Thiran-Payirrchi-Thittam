@@ -47,7 +47,14 @@ Institution Details records
 ├── evidence/
 │   └── README.md
 └── milestones/
-    └── README.md
+    ├── README.md
+    ├── milestone-1-users-and-roles/ (figures 1-4)
+    ├── milestone-2-custom-table/ (figures 5-8)
+    ├── milestone-3-read-acl/ (figures 9-17)
+    ├── milestone-4-create-acl/ (figures 18-27)
+    ├── milestone-5-write-acl/ (figures 28-33)
+    ├── milestone-6-delete-acl/ (figures 34-35)
+    └── milestone-7-conclusion-assessment/ (report index)
 ```
 
 ## Team
